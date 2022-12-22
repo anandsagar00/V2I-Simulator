@@ -19,4 +19,6 @@ for all types of vehicles.
 ● To predict the number of vehicles that are going to arrive in each lane for better
 traffic optimization.
 
+Please refer report of this project for better clarity and understanding
+
 
