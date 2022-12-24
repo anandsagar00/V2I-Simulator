@@ -35,10 +35,10 @@ totalWaitingTime=0
 oneTimeUnit=60
 
 #greenTimes for all different lanes
-greenTime1=0
-greenTime2=0
-greenTime3=0
-greenTime4=0
+greenTime1 = 0
+greenTime2 = 0
+greenTime3 = 0
+greenTime4 = 0
 
 # Default values of signal times
 defaultRed = 150
