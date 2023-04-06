@@ -3,7 +3,7 @@
 Problem Statement:
 The development of a vehicle-infrastructure simulator to test and analyze various
 traffic management methods, decrease average wait times, and cut carbon
-emissions
+emission
 
 ## Objectives
 
